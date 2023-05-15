@@ -1,0 +1,15 @@
+C:\Users\user\Pratikler\Operatorler\C-SHARP\bin\Debug\net7.0\C-SHARP.exe
+C:\Users\user\Pratikler\Operatorler\C-SHARP\bin\Debug\net7.0\C-SHARP.deps.json
+C:\Users\user\Pratikler\Operatorler\C-SHARP\bin\Debug\net7.0\C-SHARP.runtimeconfig.json
+C:\Users\user\Pratikler\Operatorler\C-SHARP\bin\Debug\net7.0\C-SHARP.dll
+C:\Users\user\Pratikler\Operatorler\C-SHARP\bin\Debug\net7.0\C-SHARP.pdb
+C:\Users\user\Pratikler\Operatorler\C-SHARP\obj\Debug\net7.0\C-SHARP.csproj.AssemblyReference.cache
+C:\Users\user\Pratikler\Operatorler\C-SHARP\obj\Debug\net7.0\C-SHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pratikler\Operatorler\C-SHARP\obj\Debug\net7.0\C-SHARP.AssemblyInfoInputs.cache
+C:\Users\user\Pratikler\Operatorler\C-SHARP\obj\Debug\net7.0\C-SHARP.AssemblyInfo.cs
+C:\Users\user\Pratikler\Operatorler\C-SHARP\obj\Debug\net7.0\C-SHARP.csproj.CoreCompileInputs.cache
+C:\Users\user\Pratikler\Operatorler\C-SHARP\obj\Debug\net7.0\C-SHARP.dll
+C:\Users\user\Pratikler\Operatorler\C-SHARP\obj\Debug\net7.0\refint\C-SHARP.dll
+C:\Users\user\Pratikler\Operatorler\C-SHARP\obj\Debug\net7.0\C-SHARP.pdb
+C:\Users\user\Pratikler\Operatorler\C-SHARP\obj\Debug\net7.0\C-SHARP.genruntimeconfig.cache
+C:\Users\user\Pratikler\Operatorler\C-SHARP\obj\Debug\net7.0\ref\C-SHARP.dll
