@@ -1,0 +1,15 @@
+C:\Users\user\Pratikler\Donguler-For-Loop\bin\Debug\net7.0\Donguler-For-Loop.exe
+C:\Users\user\Pratikler\Donguler-For-Loop\bin\Debug\net7.0\Donguler-For-Loop.deps.json
+C:\Users\user\Pratikler\Donguler-For-Loop\bin\Debug\net7.0\Donguler-For-Loop.runtimeconfig.json
+C:\Users\user\Pratikler\Donguler-For-Loop\bin\Debug\net7.0\Donguler-For-Loop.dll
+C:\Users\user\Pratikler\Donguler-For-Loop\bin\Debug\net7.0\Donguler-For-Loop.pdb
+C:\Users\user\Pratikler\Donguler-For-Loop\obj\Debug\net7.0\Donguler-For-Loop.csproj.AssemblyReference.cache
+C:\Users\user\Pratikler\Donguler-For-Loop\obj\Debug\net7.0\Donguler-For-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pratikler\Donguler-For-Loop\obj\Debug\net7.0\Donguler-For-Loop.AssemblyInfoInputs.cache
+C:\Users\user\Pratikler\Donguler-For-Loop\obj\Debug\net7.0\Donguler-For-Loop.AssemblyInfo.cs
+C:\Users\user\Pratikler\Donguler-For-Loop\obj\Debug\net7.0\Donguler-For-Loop.csproj.CoreCompileInputs.cache
+C:\Users\user\Pratikler\Donguler-For-Loop\obj\Debug\net7.0\Donguler-For-Loop.dll
+C:\Users\user\Pratikler\Donguler-For-Loop\obj\Debug\net7.0\refint\Donguler-For-Loop.dll
+C:\Users\user\Pratikler\Donguler-For-Loop\obj\Debug\net7.0\Donguler-For-Loop.pdb
+C:\Users\user\Pratikler\Donguler-For-Loop\obj\Debug\net7.0\Donguler-For-Loop.genruntimeconfig.cache
+C:\Users\user\Pratikler\Donguler-For-Loop\obj\Debug\net7.0\ref\Donguler-For-Loop.dll
