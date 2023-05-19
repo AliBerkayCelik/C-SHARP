@@ -1,0 +1,15 @@
+C:\Users\user\Pratikler\MetotlarOverloading\bin\Debug\net7.0\MetotlarOverloading.exe
+C:\Users\user\Pratikler\MetotlarOverloading\bin\Debug\net7.0\MetotlarOverloading.deps.json
+C:\Users\user\Pratikler\MetotlarOverloading\bin\Debug\net7.0\MetotlarOverloading.runtimeconfig.json
+C:\Users\user\Pratikler\MetotlarOverloading\bin\Debug\net7.0\MetotlarOverloading.dll
+C:\Users\user\Pratikler\MetotlarOverloading\bin\Debug\net7.0\MetotlarOverloading.pdb
+C:\Users\user\Pratikler\MetotlarOverloading\obj\Debug\net7.0\MetotlarOverloading.csproj.AssemblyReference.cache
+C:\Users\user\Pratikler\MetotlarOverloading\obj\Debug\net7.0\MetotlarOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pratikler\MetotlarOverloading\obj\Debug\net7.0\MetotlarOverloading.AssemblyInfoInputs.cache
+C:\Users\user\Pratikler\MetotlarOverloading\obj\Debug\net7.0\MetotlarOverloading.AssemblyInfo.cs
+C:\Users\user\Pratikler\MetotlarOverloading\obj\Debug\net7.0\MetotlarOverloading.csproj.CoreCompileInputs.cache
+C:\Users\user\Pratikler\MetotlarOverloading\obj\Debug\net7.0\MetotlarOverloading.dll
+C:\Users\user\Pratikler\MetotlarOverloading\obj\Debug\net7.0\refint\MetotlarOverloading.dll
+C:\Users\user\Pratikler\MetotlarOverloading\obj\Debug\net7.0\MetotlarOverloading.pdb
+C:\Users\user\Pratikler\MetotlarOverloading\obj\Debug\net7.0\MetotlarOverloading.genruntimeconfig.cache
+C:\Users\user\Pratikler\MetotlarOverloading\obj\Debug\net7.0\ref\MetotlarOverloading.dll
