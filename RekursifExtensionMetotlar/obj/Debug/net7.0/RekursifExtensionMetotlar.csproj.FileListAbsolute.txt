@@ -1,0 +1,15 @@
+C:\Users\user\Pratikler\RekursifExtensionMetotlar\bin\Debug\net7.0\RekursifExtensionMetotlar.exe
+C:\Users\user\Pratikler\RekursifExtensionMetotlar\bin\Debug\net7.0\RekursifExtensionMetotlar.deps.json
+C:\Users\user\Pratikler\RekursifExtensionMetotlar\bin\Debug\net7.0\RekursifExtensionMetotlar.runtimeconfig.json
+C:\Users\user\Pratikler\RekursifExtensionMetotlar\bin\Debug\net7.0\RekursifExtensionMetotlar.dll
+C:\Users\user\Pratikler\RekursifExtensionMetotlar\bin\Debug\net7.0\RekursifExtensionMetotlar.pdb
+C:\Users\user\Pratikler\RekursifExtensionMetotlar\obj\Debug\net7.0\RekursifExtensionMetotlar.csproj.AssemblyReference.cache
+C:\Users\user\Pratikler\RekursifExtensionMetotlar\obj\Debug\net7.0\RekursifExtensionMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pratikler\RekursifExtensionMetotlar\obj\Debug\net7.0\RekursifExtensionMetotlar.AssemblyInfoInputs.cache
+C:\Users\user\Pratikler\RekursifExtensionMetotlar\obj\Debug\net7.0\RekursifExtensionMetotlar.AssemblyInfo.cs
+C:\Users\user\Pratikler\RekursifExtensionMetotlar\obj\Debug\net7.0\RekursifExtensionMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\user\Pratikler\RekursifExtensionMetotlar\obj\Debug\net7.0\RekursifExtensionMetotlar.dll
+C:\Users\user\Pratikler\RekursifExtensionMetotlar\obj\Debug\net7.0\refint\RekursifExtensionMetotlar.dll
+C:\Users\user\Pratikler\RekursifExtensionMetotlar\obj\Debug\net7.0\RekursifExtensionMetotlar.pdb
+C:\Users\user\Pratikler\RekursifExtensionMetotlar\obj\Debug\net7.0\RekursifExtensionMetotlar.genruntimeconfig.cache
+C:\Users\user\Pratikler\RekursifExtensionMetotlar\obj\Debug\net7.0\ref\RekursifExtensionMetotlar.dll
