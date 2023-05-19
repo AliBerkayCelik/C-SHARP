@@ -1,0 +1,15 @@
+C:\Users\user\Pratikler\ArraySinifiMetodlari\bin\Debug\net7.0\ArraySinifiMetodlari.exe
+C:\Users\user\Pratikler\ArraySinifiMetodlari\bin\Debug\net7.0\ArraySinifiMetodlari.deps.json
+C:\Users\user\Pratikler\ArraySinifiMetodlari\bin\Debug\net7.0\ArraySinifiMetodlari.runtimeconfig.json
+C:\Users\user\Pratikler\ArraySinifiMetodlari\bin\Debug\net7.0\ArraySinifiMetodlari.dll
+C:\Users\user\Pratikler\ArraySinifiMetodlari\bin\Debug\net7.0\ArraySinifiMetodlari.pdb
+C:\Users\user\Pratikler\ArraySinifiMetodlari\obj\Debug\net7.0\ArraySinifiMetodlari.csproj.AssemblyReference.cache
+C:\Users\user\Pratikler\ArraySinifiMetodlari\obj\Debug\net7.0\ArraySinifiMetodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pratikler\ArraySinifiMetodlari\obj\Debug\net7.0\ArraySinifiMetodlari.AssemblyInfoInputs.cache
+C:\Users\user\Pratikler\ArraySinifiMetodlari\obj\Debug\net7.0\ArraySinifiMetodlari.AssemblyInfo.cs
+C:\Users\user\Pratikler\ArraySinifiMetodlari\obj\Debug\net7.0\ArraySinifiMetodlari.csproj.CoreCompileInputs.cache
+C:\Users\user\Pratikler\ArraySinifiMetodlari\obj\Debug\net7.0\ArraySinifiMetodlari.dll
+C:\Users\user\Pratikler\ArraySinifiMetodlari\obj\Debug\net7.0\refint\ArraySinifiMetodlari.dll
+C:\Users\user\Pratikler\ArraySinifiMetodlari\obj\Debug\net7.0\ArraySinifiMetodlari.pdb
+C:\Users\user\Pratikler\ArraySinifiMetodlari\obj\Debug\net7.0\ArraySinifiMetodlari.genruntimeconfig.cache
+C:\Users\user\Pratikler\ArraySinifiMetodlari\obj\Debug\net7.0\ref\ArraySinifiMetodlari.dll
