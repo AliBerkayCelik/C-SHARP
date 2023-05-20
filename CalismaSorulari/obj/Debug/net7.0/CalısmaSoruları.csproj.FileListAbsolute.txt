@@ -1,0 +1,15 @@
+C:\Users\user\Pratikler\CalısmaSoruları\bin\Debug\net7.0\CalısmaSoruları.exe
+C:\Users\user\Pratikler\CalısmaSoruları\bin\Debug\net7.0\CalısmaSoruları.deps.json
+C:\Users\user\Pratikler\CalısmaSoruları\bin\Debug\net7.0\CalısmaSoruları.runtimeconfig.json
+C:\Users\user\Pratikler\CalısmaSoruları\bin\Debug\net7.0\CalısmaSoruları.dll
+C:\Users\user\Pratikler\CalısmaSoruları\bin\Debug\net7.0\CalısmaSoruları.pdb
+C:\Users\user\Pratikler\CalısmaSoruları\obj\Debug\net7.0\CalısmaSoruları.csproj.AssemblyReference.cache
+C:\Users\user\Pratikler\CalısmaSoruları\obj\Debug\net7.0\CalısmaSoruları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pratikler\CalısmaSoruları\obj\Debug\net7.0\CalısmaSoruları.AssemblyInfoInputs.cache
+C:\Users\user\Pratikler\CalısmaSoruları\obj\Debug\net7.0\CalısmaSoruları.AssemblyInfo.cs
+C:\Users\user\Pratikler\CalısmaSoruları\obj\Debug\net7.0\CalısmaSoruları.csproj.CoreCompileInputs.cache
+C:\Users\user\Pratikler\CalısmaSoruları\obj\Debug\net7.0\CalısmaSoruları.dll
+C:\Users\user\Pratikler\CalısmaSoruları\obj\Debug\net7.0\refint\CalısmaSoruları.dll
+C:\Users\user\Pratikler\CalısmaSoruları\obj\Debug\net7.0\CalısmaSoruları.pdb
+C:\Users\user\Pratikler\CalısmaSoruları\obj\Debug\net7.0\CalısmaSoruları.genruntimeconfig.cache
+C:\Users\user\Pratikler\CalısmaSoruları\obj\Debug\net7.0\ref\CalısmaSoruları.dll
