@@ -1,0 +1,15 @@
+C:\Users\user\Pratikler\HazırMetotlarString\bin\Debug\net7.0\HazırMetotlarString.exe
+C:\Users\user\Pratikler\HazırMetotlarString\bin\Debug\net7.0\HazırMetotlarString.deps.json
+C:\Users\user\Pratikler\HazırMetotlarString\bin\Debug\net7.0\HazırMetotlarString.runtimeconfig.json
+C:\Users\user\Pratikler\HazırMetotlarString\bin\Debug\net7.0\HazırMetotlarString.dll
+C:\Users\user\Pratikler\HazırMetotlarString\bin\Debug\net7.0\HazırMetotlarString.pdb
+C:\Users\user\Pratikler\HazırMetotlarString\obj\Debug\net7.0\HazırMetotlarString.csproj.AssemblyReference.cache
+C:\Users\user\Pratikler\HazırMetotlarString\obj\Debug\net7.0\HazırMetotlarString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pratikler\HazırMetotlarString\obj\Debug\net7.0\HazırMetotlarString.AssemblyInfoInputs.cache
+C:\Users\user\Pratikler\HazırMetotlarString\obj\Debug\net7.0\HazırMetotlarString.AssemblyInfo.cs
+C:\Users\user\Pratikler\HazırMetotlarString\obj\Debug\net7.0\HazırMetotlarString.csproj.CoreCompileInputs.cache
+C:\Users\user\Pratikler\HazırMetotlarString\obj\Debug\net7.0\HazırMetotlarString.dll
+C:\Users\user\Pratikler\HazırMetotlarString\obj\Debug\net7.0\refint\HazırMetotlarString.dll
+C:\Users\user\Pratikler\HazırMetotlarString\obj\Debug\net7.0\HazırMetotlarString.pdb
+C:\Users\user\Pratikler\HazırMetotlarString\obj\Debug\net7.0\HazırMetotlarString.genruntimeconfig.cache
+C:\Users\user\Pratikler\HazırMetotlarString\obj\Debug\net7.0\ref\HazırMetotlarString.dll
