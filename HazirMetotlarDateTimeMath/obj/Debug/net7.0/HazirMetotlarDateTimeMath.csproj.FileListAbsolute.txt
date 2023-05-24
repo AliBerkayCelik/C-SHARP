@@ -1,0 +1,15 @@
+C:\Users\user\Pratikler\HazirMetotlarDateTimeMath\bin\Debug\net7.0\HazirMetotlarDateTimeMath.exe
+C:\Users\user\Pratikler\HazirMetotlarDateTimeMath\bin\Debug\net7.0\HazirMetotlarDateTimeMath.deps.json
+C:\Users\user\Pratikler\HazirMetotlarDateTimeMath\bin\Debug\net7.0\HazirMetotlarDateTimeMath.runtimeconfig.json
+C:\Users\user\Pratikler\HazirMetotlarDateTimeMath\bin\Debug\net7.0\HazirMetotlarDateTimeMath.dll
+C:\Users\user\Pratikler\HazirMetotlarDateTimeMath\bin\Debug\net7.0\HazirMetotlarDateTimeMath.pdb
+C:\Users\user\Pratikler\HazirMetotlarDateTimeMath\obj\Debug\net7.0\HazirMetotlarDateTimeMath.csproj.AssemblyReference.cache
+C:\Users\user\Pratikler\HazirMetotlarDateTimeMath\obj\Debug\net7.0\HazirMetotlarDateTimeMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pratikler\HazirMetotlarDateTimeMath\obj\Debug\net7.0\HazirMetotlarDateTimeMath.AssemblyInfoInputs.cache
+C:\Users\user\Pratikler\HazirMetotlarDateTimeMath\obj\Debug\net7.0\HazirMetotlarDateTimeMath.AssemblyInfo.cs
+C:\Users\user\Pratikler\HazirMetotlarDateTimeMath\obj\Debug\net7.0\HazirMetotlarDateTimeMath.csproj.CoreCompileInputs.cache
+C:\Users\user\Pratikler\HazirMetotlarDateTimeMath\obj\Debug\net7.0\HazirMetotlarDateTimeMath.dll
+C:\Users\user\Pratikler\HazirMetotlarDateTimeMath\obj\Debug\net7.0\refint\HazirMetotlarDateTimeMath.dll
+C:\Users\user\Pratikler\HazirMetotlarDateTimeMath\obj\Debug\net7.0\HazirMetotlarDateTimeMath.pdb
+C:\Users\user\Pratikler\HazirMetotlarDateTimeMath\obj\Debug\net7.0\HazirMetotlarDateTimeMath.genruntimeconfig.cache
+C:\Users\user\Pratikler\HazirMetotlarDateTimeMath\obj\Debug\net7.0\ref\HazirMetotlarDateTimeMath.dll
