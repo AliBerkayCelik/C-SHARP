@@ -1,0 +1,15 @@
+C:\Users\user\Pratikler\Odev\Soru1\bin\Debug\net7.0\Soru1.exe
+C:\Users\user\Pratikler\Odev\Soru1\bin\Debug\net7.0\Soru1.deps.json
+C:\Users\user\Pratikler\Odev\Soru1\bin\Debug\net7.0\Soru1.runtimeconfig.json
+C:\Users\user\Pratikler\Odev\Soru1\bin\Debug\net7.0\Soru1.dll
+C:\Users\user\Pratikler\Odev\Soru1\bin\Debug\net7.0\Soru1.pdb
+C:\Users\user\Pratikler\Odev\Soru1\obj\Debug\net7.0\Soru1.csproj.AssemblyReference.cache
+C:\Users\user\Pratikler\Odev\Soru1\obj\Debug\net7.0\Soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Pratikler\Odev\Soru1\obj\Debug\net7.0\Soru1.AssemblyInfoInputs.cache
+C:\Users\user\Pratikler\Odev\Soru1\obj\Debug\net7.0\Soru1.AssemblyInfo.cs
+C:\Users\user\Pratikler\Odev\Soru1\obj\Debug\net7.0\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\user\Pratikler\Odev\Soru1\obj\Debug\net7.0\Soru1.dll
+C:\Users\user\Pratikler\Odev\Soru1\obj\Debug\net7.0\refint\Soru1.dll
+C:\Users\user\Pratikler\Odev\Soru1\obj\Debug\net7.0\Soru1.pdb
+C:\Users\user\Pratikler\Odev\Soru1\obj\Debug\net7.0\Soru1.genruntimeconfig.cache
+C:\Users\user\Pratikler\Odev\Soru1\obj\Debug\net7.0\ref\Soru1.dll
